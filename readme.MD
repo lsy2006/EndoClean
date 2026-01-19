@@ -55,13 +55,16 @@ EndoClean/
 ├── documents/
 │   ├──emission_map.csv
 │   └──transfer_map.csv
-├── model/
-│   ├──BBPS_90.pth
-│   ├──IS.pth
-│   └──VJacc9462.pyh
 ├── ile_detection.py        # Starting point detection
 ├── infering.py             # BBPS-scoring and colon segmentation
 ├── merge.py                # Serialize the results
 ├── summary.py              # Summarize the colon preparation
 ├── pipeline.py
 └── README.md
+```
+---
+
+## Data Availability
+
+Clinical colonoscopy videos and images are **not included** due to patient privacy and institutional regulations.
+Pretrained model checkpoints are available at: [link](https://drive.google.com/drive/folders/1rdxYLJZz-Dk6O62yg_qPEBH6g3jbWwvw?usp=sharing)
