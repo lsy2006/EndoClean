@@ -4,7 +4,7 @@
 
 This repository accompanies the manuscript:
 
-> *An Artificial Intelligence System for Colonoscopy: Evaluation of a New Approach for the Boston Bowel Preparation Scale*
+> [*EndoClean: A Hybrid Deep Learning Framework for Automated Full-Video Boston Bowel Preparation Scale Assessment*](https://www.mdpi.com/2306-5354/13/3/294)
 
 ---
 
