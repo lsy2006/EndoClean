@@ -67,9 +67,21 @@ EndoClean/
 ## Data Availability
 
 Clinical colonoscopy videos and images are **not included** due to patient privacy and institutional regulations.
-Pretrained model checkpoints are available at: [link](https://drive.google.com/drive/folders/1rdxYLJZz-Dk6O62yg_qPEBH6g3jbWwvw?usp=sharing)
+Pretrained model [checkpoints](https://drive.google.com/drive/folders/1rdxYLJZz-Dk6O62yg_qPEBH6g3jbWwvw?usp=sharing) are available.
 ---
 
 ## Citation
 
-If you use this repository in your research, please cite the corresponding paper.
+If you use this repository in your research, please cite the corresponding [paper](https://www.mdpi.com/2306-5354/13/3/294):
+```
+@article{zhu2026endoclean,
+  title={EndoClean: A Hybrid Deep Learning Framework for Automated Full-Video Boston Bowel Preparation Scale Assessment},
+  author={Zhu, Yan and Li, Si-Yuan and Fu, Pei-Yao and Zhang, Zhen and Wang, Shuo and Li, Quan-Lin and Zhou, Ping-Hong},
+  journal={Bioengineering},
+  volume={13},
+  number={3},
+  pages={294},
+  year={2026},
+  publisher={MDPI}
+}
+```
